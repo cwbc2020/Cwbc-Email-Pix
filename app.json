@@ -1,0 +1,13 @@
+{
+  "name": "CWBC Email Pix Tracaker",
+  "description": "CWBC Pix Tracker ",
+  "keywords": [
+    "email",
+    "PHP",
+    "tracker",
+    "analytic"
+  ],
+  "website": "https://github.com/cwbc2020",
+  "repository": "https://github.com/cwbc2020/",
+  "success_url": "/"
+}

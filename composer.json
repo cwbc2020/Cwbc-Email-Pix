@@ -1,0 +1,13 @@
+{
+    "name": "abulhol/Cwbc Tracker",
+    "description": "tracker for email",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "abulhol@",
+            "email": "abuhol@yahoo.com"
+        }
+    ],
+    "require": {}
+}
